@@ -1,0 +1,51 @@
+name: Area
+author: alvin0319
+main: alvin0319\Area\AreaLoader
+version: 1.0.0
+api: 4.0.0
+
+permissions:
+  area.command.skyblock.buy:
+    default: true
+  area.command.skyblock.info:
+    default: true
+  area.command.skyblock.move:
+    default: true
+  area.command.skyblock.setting:
+    default: true
+  area.command.skyblock.share:
+    default: true
+  area.command.skyblock.removeshare:
+    default: true
+  area.command.skyblock.increase:
+    default: true
+  area.command.island.buy:
+    default: true
+  area.command.island.move:
+    default: true
+  area.command.island.start:
+    default: op
+  area.command.skyisland.buy:
+    default: true
+  area.command.skyisland.move:
+    default: true
+  area.command.skyisland.start:
+    default: op
+  area.command.area.buy:
+    default: true
+  area.command.area.info:
+    default: true
+  area.command.area.move:
+    default: true
+  area.command.area.setting:
+    default: true
+  area.command.area.share:
+    default: true
+  area.command.area.removeshare:
+    default: true
+  area.command.area.transfer:
+    default: true
+  area.command.area.sell:
+    default: true
+  area.command.worldmanage:
+    default: op
